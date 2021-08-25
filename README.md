@@ -1,2 +1,2 @@
 # Taller_hellogit
-repositorio de pruebas para entender git
+repositorio de pruebas para entender git con gitkraken
